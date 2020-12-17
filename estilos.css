@@ -1,0 +1,28 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  color: slategrey;
+  font-size: 1.2rem;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+button {
+  border: none;
+  padding: 20px;
+  border-radius: 30px;
+  color: white;
+  width: 130px;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+#masUno {
+  background-color: green;
+}
+
+#menosUno {
+  background-color: red;
+}
